@@ -1,4 +1,4 @@
-package com.example.exercios.models;
+package com.example.exercios.models.entities;
 
 public class Cliente {
     private int id;
